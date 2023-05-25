@@ -11,5 +11,5 @@
   GPU based computational allows for highly parallel computation resulting in a decrease of computational time.
   
   ### Authors
-  Diogo Ramos, Physics Engeneering, Universidade do Minho
-  Gabriel Costa, Physics Engeneering, Universidade do Minho
+  <p>Diogo Ramos, Physics Engeneering, Universidade do Minho<br>
+  Gabriel Costa, Physics Engeneering, Universidade do Minho</p>
